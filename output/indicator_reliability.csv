@@ -1,0 +1,6 @@
+indicator,explained_by_type_and_size,odd_vs_even_months_corr
+sessions_per_day,0.992,-0.05
+avg_duration_min,1.0,0.13
+power_ratio,0.972,0.05
+kwh_per_session,1.0,0.17
+overlap_rate,0.968,-0.11
